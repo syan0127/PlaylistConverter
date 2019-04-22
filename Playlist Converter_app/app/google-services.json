@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "590051008986",
+    "firebase_url": "https://playlist-converter-3055f.firebaseio.com",
+    "project_id": "playlist-converter-3055f",
+    "storage_bucket": "playlist-converter-3055f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590051008986:android:5287be7160400ad1",
+        "android_client_info": {
+          "package_name": "com.example.dell.playlistconverter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590051008986-d4h2cfmspim6uvjp6gg5d5rfjqq0kade.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdSnh70U05KqMSjfMba6_dX2eUwxgEYaM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
